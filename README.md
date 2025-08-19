@@ -1,11 +1,15 @@
 # tourease
-TEAM MEMBERS: 
-1.Sreeja 2410030454 
-2.Sahithi Reddy 2410030277 
-3.Pranathi 2410030276 
-4.Bhavana 2410030080 
-5.Akhila 2410030452 
-6.Varshitha 2410030527
+ Team Members:
+
+| S.No | Name           | Roll Number   |
+|------|----------------|---------------|
+| 1    | Sreeja         | 2410030454    |
+| 2    | Sahithi Reddy  | 2410030277    |
+| 3    | Pranathi       | 2410030276    |
+| 4    | Bhavana        | 2410030080    |
+| 5    | Akhila         | 2410030452    |
+| 6    | Varshitha      | 2410030527    |
+
 
 OVERVIEW:
 
